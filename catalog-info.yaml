@@ -4,6 +4,7 @@ metadata:
   name: member-api
   annotations:
     github.com/project-slug: backstage-catalog-test/member-api
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
