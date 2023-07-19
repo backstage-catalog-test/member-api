@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: member-api
+  annotations:
+    github.com/project-slug: backstage-catalog-test/member-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage-dev
